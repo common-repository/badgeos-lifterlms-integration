@@ -1,0 +1,81 @@
+.branding {
+    float: left;
+    margin-bottom: 40px;
+    margin-top: 10px;
+    background-color: #fefefe;
+    border-radius: 4px;
+    border-bottom: 3px solid #46b450;
+    padding: 10px;
+    width: 98%;
+    font-size: 15px;
+}
+.branding-logo {
+    float: left;
+    width: 150px;
+    margin-right: 20px;
+    margin-top: 20px;
+}
+.branding-text {
+    float: left;
+    width: 70%;
+}
+.select2-container--default .select2-selection--multiple li {
+    margin-bottom: 0;
+}
+.wmca-settings-wrapper {
+    max-width: 95%;
+}
+.input-row {
+    margin-bottom: 15px;
+}
+.wmca-settings-wrapper table tr td {
+    padding-bottom: 15px;
+    padding-right: 15px;
+    vertical-align: top;
+}
+.label-textarea {
+    display: block;
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+.label {
+    font-size: 15px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+.wmca-settings-wrapper input,
+.wmca-settings-wrapper textarea,
+.wmca-settings-wrapper button {
+    vertical-align: bottom;
+    padding: 10px 12px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.wmca-settings-wrapper .hint {
+    display: block;
+    margin: 5px 0;
+    color: #000;
+    opacity: 0.5;
+}
+.submit-button {
+    margin: 20px 0;
+    text-align: right;
+}
+#setting_tabs {
+    padding: 0;
+}
+#setting_tabs p.submit {
+    padding: 1em 1.4em;
+}
+.hidden {
+    display: none;
+}
+
+#wmca_license_options,
+#wmca_redeeming_options,
+#wmca_badges_options,
+#wmca_general_options {
+    padding: 20px 0;
+}

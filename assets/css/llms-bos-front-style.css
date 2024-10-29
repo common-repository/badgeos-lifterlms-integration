@@ -1,0 +1,23 @@
+.choose-point-type {
+    background-color: #FFF;
+    max-width: 200px;
+}
+.learndash-error {
+    color: red;
+    font-weight: bold;
+}
+.learndash-success {
+    color: green;
+    font-weight: bold;
+}
+.swal-content a.point-purchase-link {
+    background: #59adc7;
+    color: #fff;
+    padding: 10px 15px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    border-radius: 4px;
+}
+.ld-mycred-checkout-button {
+    min-width: 210px;
+}
